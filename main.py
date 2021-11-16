@@ -43,7 +43,7 @@ def banner(cor):
 
 {amare}[!]{amare}{V}--developed by whit3x--.{amare}[!]{amare}
 
-{amare}[!]{amare}{V}--developed by Stars Labs--.{amare}[!]{amare}
+{amare}[!]{amare}{V}--developed by Deep-hub--.{amare}[!]{amare}
 ''')
 banner(cor=V)
 def bonus():
