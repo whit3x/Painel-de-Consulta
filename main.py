@@ -43,7 +43,11 @@ def banner(cor):
 
 {amare}[!]{amare}{V}--developed by whit3x--.{amare}[!]{amare}
 
-{amare}[!]{amare}{V}--developed by Deep-hub--.{amare}[!]{amare}
+{amare}[!]{amare}{V}--Log in: android--.{amare}[!]{amare}
+
+{amare}[!]{amare}{V}--Users created: 93--.{amare}[!]{amare}
+
+{amare}[!]{amare}{V}--Guilds: 1 Guilds--.{amare}[!]{amare}
 ''')
 banner(cor=V)
 def bonus():
