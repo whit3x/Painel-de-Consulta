@@ -3,8 +3,8 @@
   <head>
     <body>
       <h1>Meu pix para eu comprar um café :D</h1>
-      <h2>"25ef499b-d184-4aa1-9797-0a294be40d83"</h2>
-      <h2>Feito por Dio</h2>
+      <h2>"Não precisa kkkk"</h2>
+      <h2>Feito por whit3x</h2>
     </body>
   </head>
 </html>
@@ -54,7 +54,7 @@ pkg install git
 pkg install python
 ```
 ```
-git clone https://github.com/DioBruh/Painel-de-Consulta
+git clone https://github.com/whit3x/Painel-de-Consulta
 ```
 ```
 cd Painel-de-Consulta
