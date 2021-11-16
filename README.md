@@ -2,8 +2,8 @@
 <html>
   <head>
     <body>
-      <h1>Meu pix para eu comprar um café :D</h1>
-      <h2>"Não precisa kkkk"</h2>
+      <h1>Painel for termux :D</h1>
+      <h2>"------------------------------"</h2>
       <h2>Feito por whit3x</h2>
     </body>
   </head>
