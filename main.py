@@ -22,10 +22,10 @@ clear()
 
 def lammer():
     try:
-        print(f'{amare}[!]{amare}{A}Lammerzinho, travazaper, fudido, seu merda.\nvocê acha que vai usar um painel no termux?');sleep(2);clear() 
+        print(f'{amare}[!]{amare}{A}Lammerzinho, travazaper, fudido, seu merda.\nvocê acha que vai usar meu painel?');sleep(2);clear() 
     except KeyboardInterrupt:
         while True:
-            print(f'{amare}[!]{amare}{A}Lammerzinho, travazaper, fudido, seu merda.\nvocê acha que vai usar um painel no termux?');sleep(2);clear();os.fork()
+            print(f'{amare}[!]{amare}{A}Lammerzinho, travazaper, fudido, seu merda.\nvocê acha que vai usar meu painel?');sleep(2);clear();os.fork()
         
 def restart():
     os.execl(executable, executable, *argv)
@@ -42,11 +42,7 @@ def banner(cor):
 ░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚═════╝░╚═╝░░╚═╝
 
 {amare}[!]{amare}{V}--developed by whit3x--.{amare}[!]{amare}
-
-{amare}[!]{amare}{V}--Log in: android--.{amare}[!]{amare}
-
 {amare}[!]{amare}{V}--Users created: 93--.{amare}[!]{amare}
-
 {amare}[!]{amare}{V}--Guilds: 1 Guilds--.{amare}[!]{amare}
 ''')
 banner(cor=V)
